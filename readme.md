@@ -19,3 +19,6 @@ Running RabbitMQ as message broker.
 Sending and processing event
 ![image](https://github.com/user-attachments/assets/cdb89054-cbcb-4934-8a2b-bd79dc310556)
 
+Monitoring chart based on publisher
+![image](https://github.com/user-attachments/assets/a2498768-b6e8-4fb3-927d-d7f986bf492a)
+
