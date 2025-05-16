@@ -16,3 +16,6 @@ The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscr
 Running RabbitMQ as message broker.
 ![image](https://github.com/user-attachments/assets/1290dc82-fd89-47b8-8c37-9c78b1531a04)
 
+Sending and processing event
+![image](https://github.com/user-attachments/assets/cdb89054-cbcb-4934-8a2b-bd79dc310556)
+
