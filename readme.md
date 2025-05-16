@@ -13,4 +13,6 @@ The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscr
     - localhost — the broker is running on the same machine as the program
 
     - 5672 — the default port for AMQP
+Running RabbitMQ as message broker.
+![image](https://github.com/user-attachments/assets/1290dc82-fd89-47b8-8c37-9c78b1531a04)
 
