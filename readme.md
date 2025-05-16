@@ -19,6 +19,11 @@ Running RabbitMQ as message broker.
 Sending and processing event
 ![image](https://github.com/user-attachments/assets/cdb89054-cbcb-4934-8a2b-bd79dc310556)
 
+The subscriber establishes a connection with the RabbitMQ message broker, confirming active listening. The publisher executes cargo run, sending five messages to the broker. The subscriber processes each message in real-time, demonstrating successful communication. This interaction validates the working message queue system using RabbitMQ and Rust for event-driven communication.
+
+
 Monitoring chart based on publisher
 ![image](https://github.com/user-attachments/assets/a2498768-b6e8-4fb3-927d-d7f986bf492a)
+
+The publisher program sends messages to RabbitMQ, causing a spike in the message rate graph. This indicates the number of messages published per second. Despite a queue showing 0 messages, the purple line indicates message acknowledgments, confirming the message flow between the publisher and RabbitMQ broker.
 
